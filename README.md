@@ -7,17 +7,21 @@
 
 ## Contents.
 
+0. [서버 디렉토리 및 설계 규칙](https://leeseunghee00.notion.site/0-206889b5fe3d806da74fe5b1aa5f33fd?source=copy_link)
 1. [Ubuntu 초기 세팅](https://leeseunghee00.notion.site/0-Ubuntu-1f2889b5fe3d8049b782fe96cbb2616c?pvs=4)
     - Common Configuration (Timezone, Locale, Swap Memory, Docker)
     - API Server Configuration (Java)
     - Web Server Configuration (Nginx)
-3. [Database 구성](https://leeseunghee00.notion.site/1-Database-1f2889b5fe3d807c9ac2c7015d3cd7ab?pvs=4)
+2. [Database 구성](https://leeseunghee00.notion.site/1-Database-1f2889b5fe3d807c9ac2c7015d3cd7ab?pvs=4)
     - MySQL 환경 구성 (Docker Compose)
     - MySQL Backup
-4. [API Server 구성](https://leeseunghee00.notion.site/2-API-Server-1f2889b5fe3d80a685f9deaee8bf8501?pvs=4)
+3. [API Server 구성](https://leeseunghee00.notion.site/2-API-Server-1f2889b5fe3d80a685f9deaee8bf8501?pvs=4)
     - Common Log Policy
     - API Server Setting
     - Shell Script 작성 (service_check, service_run, system_check)
+4. [Monitoring 및 APM 구성](https://leeseunghee00.notion.site/4-Monitoring-APM-1f3889b5fe3d807eb3eaf4b7fa13e066?source=copy_link)
+    - Grafana & Prometheus API Server 모니터링 구축
+    - Pinpoint APM
 
 <br />
 
