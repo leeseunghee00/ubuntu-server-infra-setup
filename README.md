@@ -22,6 +22,7 @@
 4. [Monitoring 및 APM 구성](https://leeseunghee00.notion.site/4-Monitoring-APM-1f3889b5fe3d807eb3eaf4b7fa13e066?source=copy_link)
     - Grafana & Prometheus API Server 모니터링 구축
     - Pinpoint APM
+5. [Jenkins CI/CD 구성](https://leeseunghee00.notion.site/5-Jenkins-CI-CD-1f9889b5fe3d80c4a70aecf79edfc64f?source=copy_link)
 
 <br />
 
