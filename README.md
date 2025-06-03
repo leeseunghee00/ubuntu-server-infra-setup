@@ -23,6 +23,8 @@
     - Grafana & Prometheus API Server 모니터링 구축
     - Pinpoint APM
 5. [Jenkins CI/CD 구성](https://leeseunghee00.notion.site/5-Jenkins-CI-CD-1f9889b5fe3d80c4a70aecf79edfc64f?source=copy_link)
+6. [nGrinder 성능테스트 환경 구성](https://leeseunghee00.notion.site/6-nGrinder-206889b5fe3d8079955fc0dcfa650ebd?source=copy_link)
+    - 아키텍쳐별 nGrinder 환경 구축 (arm64, aarch64)
 
 <br />
 
